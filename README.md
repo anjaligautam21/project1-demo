@@ -1,4 +1,4 @@
 # project1-demo
-My first project
+My first project.
 Author - Anjali Gautam
 
